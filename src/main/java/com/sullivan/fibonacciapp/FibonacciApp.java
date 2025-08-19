@@ -18,6 +18,6 @@ public class FibonacciApp {
 
     public static void main(String[] args) {
         int number = 10;
-        System.out.println("The " + number + " term in the Fibonacci sequence is " + recursiveFibonacci(number));
+        System.out.println("The " + number + "th term in the Fibonacci sequence is " + recursiveFibonacci(number));
     }
 }
